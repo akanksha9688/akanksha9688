@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Intelligent Sewage Detection and Monitoring System**
 
-- 👨‍💻 All of my projects are available at [akankshasriportfolio]([akankshasriportfolio.netlify.app/])
+- 👨‍💻 All of my projects are available at [akankshasriportfolio]([https://akankshasriportfolio.netlify.app/])
 
 - 💬 Ask me about **HTML, CSS, JS, React, SQL, Machine Learning, Python, Java**
 
