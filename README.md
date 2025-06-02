@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [akankshasriportfolio]([https://akankshasriportfolio.netlify.app/])
 
-- 💬 Ask me about **HTML, CSS, JS, React, SQL, Machine Learning, Python, Java**
+- 💬 Ask me about **HTML, CSS, JS, React, SQL, Machine Learning, Python, C++**
 
 - 📫 How to reach me **linkedin.com/in/akanksha-srivastava-756508215**
 
