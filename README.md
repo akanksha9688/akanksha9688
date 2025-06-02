@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akanksha Srivastava</h1>
-<h3 align="center">I am a Frontend Developer and Machine Learning Enthusiast</h3>
+<h3 align="center">I am a Frontend Developer and Backend Enthusiast</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha9688&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha9688" /> </p>
 
 - 🔭 I’m currently working on **Developing Amazing User friendly Website**
 
-- 🌱 I’m currently Focusing on **Machine Learning**
+- 🌱 I’m currently Focusing on **FullStack Development**
 
 - 👯 I’m looking to collaborate on **Intelligent Sewage Detection and Monitoring System**
 
